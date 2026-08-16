@@ -1,0 +1,8 @@
+{
+  "name": "Galaxy Watch Studio",
+  "description": "Diseña, personaliza y sincroniza esferas y caras de reloj avanzadas para Galaxy Watch con widgets dinámicos, métricas de salud y estilos intercambiables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
